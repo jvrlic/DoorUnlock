@@ -1,0 +1,2 @@
+Hardware:
+WEMOS D1
